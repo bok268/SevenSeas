@@ -45,3 +45,9 @@ For support, feature requests, or contributions, please visit
 our [GitHub repository](<https://github.com/SevenSeas-team>) or contact us directly at discord.
 
 Dive into the ultimate gaming experience with SevenSeas today!
+
+<br />
+
+# ❤️
+
+Reminder that <strong><i>you are great, you are enough, and your presence is valued.</i></strong> If you are struggling with your mental health, please reach out to someone you love and consult a professional. You are not alone.
