@@ -61,6 +61,7 @@
 							<span>Switch to Row layout</span>
 						</Tooltip.Content>
 					</Tooltip.Root>
+
 				{/if}
 			</div>
 		</div>
@@ -71,7 +72,7 @@
 
 		<div class="{pluginLayout === 1 ? 'grid grid-cols-2 gap-4' : 'grid grid-cols-1 gap-4'}">
 			{#each Array(12) as _, i (i)}
-			<Card />
+			<Card {pluginLayout}/>
 			{/each}
 		</div>
 	</div>
