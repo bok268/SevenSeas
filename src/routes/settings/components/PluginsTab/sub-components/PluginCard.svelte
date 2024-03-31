@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 	import * as Avatar from '$lib/components/ui/avatar/index';
 	import { Button } from '$lib/components/ui/button/index';
 	import * as Card from '$lib/components/ui/card/index';
-	export let pluginLayout;
+	export let pluginLayout: number;
 // 	todo used that xdd
 </script>
 
