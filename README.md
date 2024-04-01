@@ -22,7 +22,7 @@ To get started with SevenSeas, follow these steps:
 
 To run SevenSeas, you'll need to set up the following environment variables:
 
-- `PUBLIC_API_URL`: The URL to the public API used by SevenSeas.
+- `PUBLIC_API_URL`: The IGDB Public api Url used by SevenSeas.
 - `PUBLIC_RD_CLIENT_ID`: The client ID for Real Debrid integration.
 
 ## Contributing
